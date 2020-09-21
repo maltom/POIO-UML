@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1250</CODE-PAGE>
+	<version>100.831.0</version>
+	<lang>*</lang>
+	<BuildNo>9835550</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<CGEMdiWorkspace type="e">
+			<stubList type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</stubList>
+			<isLoadOnDemand type="a">0</isLoadOnDemand>
+			<myViewsWithID type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">10</size>
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">225</m_nLeft>
+								<m_nTop type="a">225</m_nTop>
+								<m_nRight type="a">1380</m_nRight>
+								<m_nBottom type="a">788</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gramofon_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Change disc size</_hclass>
+								<_hname type="a">Change disc size</_hname>
+								<_hid type="a">GUID 0a68095e-fc22-4104-a906-4403296d7b2d</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1118 484 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">150</m_nLeft>
+								<m_nTop type="a">150</m_nTop>
+								<m_nRight type="a">1305</m_nRight>
+								<m_nBottom type="a">713</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gramofon_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Control panel option button press</_hclass>
+								<_hname type="a">Control panel option button pressed</_hname>
+								<_hid type="a">GUID 11ee06b8-b913-40f8-aab3-5cca9c91e3e6</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1118 484 </_DownRight>
+						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">182</m_nRight>
+								<m_nBottom type="a">500</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Gramofon_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hname type="a">Functionallities</_hname>
+								<_hid type="a">GUID 99f02e36-45a6-4be1-9b6f-52706ec8abc8</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">66 0 </_UpLeft>
+						<_DownRight type="a">156 372 </_DownRight>
+						<m_nDiagramIndex type="a">9</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">1180</m_nRight>
+								<m_nBottom type="a">588</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gramofon_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Lock change settings</_hclass>
+								<_hname type="a">Lock change settings</_hname>
+								<_hid type="a">GUID 8a0d8292-1dcf-44f0-8835-3e0d592a6e3f</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1118 484 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">75</m_nLeft>
+								<m_nTop type="a">75</m_nTop>
+								<m_nRight type="a">1228</m_nRight>
+								<m_nBottom type="a">638</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gramofon_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Pause</_hclass>
+								<_hname type="a">Pause</_hname>
+								<_hid type="a">GUID 5ec48b3e-2e15-48fd-b52d-8100361ea4ae</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 30 </_UpLeft>
+						<_DownRight type="a">1116 514 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">1180</m_nRight>
+								<m_nBottom type="a">588</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gramofon_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Play mode</_hclass>
+								<_hname type="a">Play mode</_hname>
+								<_hid type="a">GUID 8090aecd-fa96-47e3-ba03-3c18d1a5db7b</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1118 484 </_DownRight>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">275</m_nLeft>
+								<m_nTop type="a">275</m_nTop>
+								<m_nRight type="a">1430</m_nRight>
+								<m_nBottom type="a">838</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gramofon_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Play</_hclass>
+								<_hname type="a">Play</_hname>
+								<_hid type="a">GUID 8a10c97b-7c88-4453-b800-cda46c10dc24</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">1 10 </_UpLeft>
+						<_DownRight type="a">1119 494 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">125</m_nLeft>
+								<m_nTop type="a">125</m_nTop>
+								<m_nRight type="a">1278</m_nRight>
+								<m_nBottom type="a">688</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gramofon_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Resume</_hclass>
+								<_hname type="a">Resume</_hname>
+								<_hid type="a">GUID 64bf7968-aafd-46a0-95a1-9613000355e4</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1116 484 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">200</m_nLeft>
+								<m_nTop type="a">200</m_nTop>
+								<m_nRight type="a">1355</m_nRight>
+								<m_nBottom type="a">763</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gramofon_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Settings mode</_hclass>
+								<_hname type="a">Settings mode</_hname>
+								<_hid type="a">GUID e707e9da-3d25-4ac7-bdbb-0096e1de7387</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 30 </_UpLeft>
+						<_DownRight type="a">1118 514 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">175</m_nLeft>
+								<m_nTop type="a">175</m_nTop>
+								<m_nRight type="a">1328</m_nRight>
+								<m_nBottom type="a">738</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gramofon_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Stop</_hclass>
+								<_hname type="a">Stop</_hname>
+								<_hid type="a">GUID 158450ec-bfbb-4149-97cd-eb5bf24f69e6</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1407 797 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+				</IRPYRawContainer>
+			</myViewsWithID>
+			<_fullName type="a">C:\Users\student\Desktop\Gramofon\Gramofon\Gramofon</_fullName>
+			<_selectedPerspective type="a">Advanced</_selectedPerspective>
+			<m_SearchScopeList type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</m_SearchScopeList>
+			<bUsingBrowserCustomView type="a">1</bUsingBrowserCustomView>
+			<bApplyOnDiagrams type="a">0</bApplyOnDiagrams>
+			<liCustomViewIDs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</liCustomViewIDs>
+			<mapOslcRmCollections type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</mapOslcRmCollections>
+			<favoritesItem type="e">
+				<generation type="a">0</generation>
+				<name type="a">Favorites</name>
+				<idOrFolder type="a">folder</idOrFolder>
+			</favoritesItem>
+			
+		</CGEMdiWorkspace>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

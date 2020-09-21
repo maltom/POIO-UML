@@ -1,0 +1,100 @@
+I-Logix-RPY-Archive version 8.15.0 * 9835550
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 16;
+	- value = "DefaultComponent\\DefaultConfig\\Default.cpp" 9.21.2020::4:7:31
+	"DefaultComponent\\DefaultConfig\\Default.h" 9.21.2020::4:7:31
+	"DefaultComponent\\DefaultConfig\\Gramophone.cpp" 9.21.2020::4:7:31
+	"DefaultComponent\\DefaultConfig\\Gramophone.h" 9.21.2020::4:7:31
+	"DefaultComponent\\DefaultConfig\\MusicLover.cpp" 9.21.2020::4:7:31
+	"DefaultComponent\\DefaultConfig\\MusicLover.h" 9.21.2020::4:7:31
+	"DefaultComponent\\DefaultConfig\\Panel.cpp" 9.21.2020::4:7:30
+	"DefaultComponent\\DefaultConfig\\Panel.h" 9.21.2020::4:7:30
+	"DefaultComponent\\DefaultConfig\\Selector.cpp" 9.21.2020::4:7:30
+	"DefaultComponent\\DefaultConfig\\Selector.h" 9.21.2020::4:7:30
+	"DefaultComponent\\DefaultConfig\\discSensor.cpp" 9.21.2020::5:49:19
+	"DefaultComponent\\DefaultConfig\\discSensor.h" 9.21.2020::5:49:45
+	"DefaultComponent\\DefaultConfig\\horizontalDrive.cpp" 9.21.2020::4:7:31
+	"DefaultComponent\\DefaultConfig\\horizontalDrive.h" 9.21.2020::4:7:31
+	"DefaultComponent\\DefaultConfig\\verticalDrive.cpp" 9.21.2020::4:7:31
+	"DefaultComponent\\DefaultConfig\\verticalDrive.h" 9.21.2020::4:7:31
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 4df5ae8b-2a30-4b1b-be5f-f8d06a08d28a" "GUID 93e47f41-1066-4bdf-94de-9dc615306438"
+	"GUID b1ca3563-5d0e-4435-b62a-4e48e4a24894" "GUID 93e47f41-1066-4bdf-94de-9dc615306438"
+	
+}
+- size = 9;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gramofon_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "horizontalDrive";
+	- _id = GUID 90a53f4b-3906-4a8c-b5cb-75e5361eca1a;
+}
+- genTime = 9.21.2020::4:7:31;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Gramofon_rpy\\Default.sbsx";
+	- _name = "Default";
+	- _id = GUID 4df5ae8b-2a30-4b1b-be5f-f8d06a08d28a;
+}
+- genTime = 9.21.2020::4:7:31;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gramofon_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Gramophone";
+	- _id = GUID fc378b94-bfed-4bfa-8ba4-66dcf018f5dd;
+}
+- genTime = 9.21.2020::4:7:31;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Gramofon_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "MusicLover";
+	- _id = GUID f46d4534-51d0-40b3-8d18-640a312e2b47;
+}
+- genTime = 9.21.2020::4:7:31;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gramofon_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "discSensor";
+	- _id = GUID 33db7dd8-2cce-48e5-a4f9-d101dcd43206;
+}
+- genTime = 9.21.2020::5:49:46;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gramofon_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Selector";
+	- _id = GUID 3dad8fef-0003-4a23-aa2e-8b3b5d5366e5;
+}
+- genTime = 9.21.2020::4:7:31;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gramofon_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "verticalDrive";
+	- _id = GUID eb06baa0-a06a-45ac-8e14-e2d229b28416;
+}
+- genTime = 9.21.2020::4:7:31;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gramofon_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Panel";
+	- _id = GUID fc6fb2bc-0924-4abc-80da-40ecef638d6c;
+}
+- genTime = 9.21.2020::4:7:31;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\Gramofon_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID d2f7f807-1dae-4e8d-8a4e-557d688da054;
+}
+- genTime = 9.21.2020::4:7:31;
+
